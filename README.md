@@ -1,1 +1,2 @@
-# EDECX-WEB
+composer install --no-scripts 
+php artisan key:generate 
